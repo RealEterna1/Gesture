@@ -1,0 +1,13 @@
+# 本地工具链与构建产物，不入库
+pilot_app/build_env/
+pilot_app/source/build/
+pilot_app/source/.dart_tool/
+pilot_app/source/android/local.properties
+
+# 分析输出
+analysis/out/
+
+# 被试数据，不入库
+data/raw/
+data/processed/
+data/pilot/**/*.json
