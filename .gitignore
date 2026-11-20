@@ -11,3 +11,7 @@ analysis/out/
 data/raw/
 data/processed/
 data/pilot/**/*.json
+
+# APK及打包输出
+pilot_app/release/
+pilot_app/app-release*.apk
